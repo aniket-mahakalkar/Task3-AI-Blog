@@ -46,6 +46,6 @@ This application integrates **Streamlit** for a user-friendly interface, **OpenA
 
 **To Run the code :**
 ```bash
-    pip install -r requirements.txt
-    streamlit run Blog_Generator.py
+pip install -r requirements.txt
+streamlit run Blog_Generator.py
     

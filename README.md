@@ -45,6 +45,7 @@ This application integrates **Streamlit** for a user-friendly interface, **OpenA
    cd <your_project_folder>
 
 **To Run the code :**
+```bash
     pip install -r requirements.txt
     streamlit run Blog_Generator.py
     

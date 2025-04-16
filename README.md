@@ -1,1 +1,1 @@
-# Task3-AI-Blog
+# AI_Blog_Generator-Task3
